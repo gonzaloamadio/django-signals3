@@ -1,0 +1,9 @@
+# Local development dependencies go here
+-r base.txt
+
+ipdb
+coverage
+httpie
+django-test-without-migrations
+pytest
+pytest-django 
